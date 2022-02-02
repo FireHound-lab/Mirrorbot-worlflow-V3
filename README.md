@@ -19,4 +19,7 @@ Change `GitHubMail` and `GitHubName` environment variable as your own
 
 And That's it.
 
+
+Give a star if you like this :)
+
 All credit for this repo belongs to @ElytrA8
