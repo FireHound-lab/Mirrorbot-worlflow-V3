@@ -23,3 +23,8 @@ And That's it.
 Give a star if you like this :)
 
 All credit for this repo belongs to @ElytrA8
+
+
+Fair warning, I won't be responsible if github ban your account for violation of their service ( Abusing ) !!!!
+
+Advising you to use alternate account with this repo !:)
