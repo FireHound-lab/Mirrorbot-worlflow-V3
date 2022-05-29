@@ -24,7 +24,12 @@ Give a star if you like this :)
 
 All credit for this repo belongs to @ElytrA8
 
+Terms Of Use
 
-Fair warning, I won't be responsible if github ban your account for violation of their service ( Abusing ) !!!!
+This is Only For debugging Purposes.
+
+If you use It For Deploying Your Account Might Get Ban.
+
+We Are Not Responsible For Any Action Taken By GitHub.
 
 Advising you to use alternate account with this repo !:)
